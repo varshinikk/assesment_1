@@ -1,0 +1,51 @@
+fieldset 
+{
+	height: 30px;
+	background-color:#EAEDED;
+	border: 1px solid;
+}
+span
+{
+	padding: 30px;
+	font-size: 23px;
+}
+#radius {
+	height: 30px;
+	width: 300px; 
+	border:1px solid; 
+	border-radius: 9px;
+	font-size: 20px;
+}
+i 
+{
+	padding-left: 180px;
+}
+.dropdown 
+{
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content 
+{
+  display: none;
+  position: absolute;
+  width: 160px;
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content
+{
+  display: block;
+}
+input
+{
+	background-color: rgb(234, 237, 237);
+	font-size: 18px;
+	padding: 2px;
+}
+form
+{
+	margin-top: 50px;
+}
